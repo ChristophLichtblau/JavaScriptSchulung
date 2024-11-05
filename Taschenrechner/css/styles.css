@@ -1,0 +1,173 @@
+body {
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+}
+
+.taste {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	width: 15.20%;
+	height: 11.11%;
+	z-index: 9;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
+	background-color: rgb(72, 72, 72);
+	border: solid rgb(0, 0, 0) 1px;
+	border-radius: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.41vw;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div1 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 7.61%;
+	left: 29.53%;
+	width: 42.04%;
+	height: 84.78%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(163, 163, 163);
+	border: solid rgb(0, 0, 0) 0px;
+	border-radius: 35px;
+	box-shadow: 49px 49px 49px rgba(0, 0, 0, 0.3);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#display {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 11.57%;
+	left: 10.67%;
+	width: 78.64%;
+	height: 11.11%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(218, 248, 190);
+	border: solid rgb(0, 0, 0) 3px;
+	border-radius: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.98vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div3 {
+	top: 31.12%;
+	left: 12.98%;
+}
+
+#div4 {
+	top: 31.12%;
+	left: 32.74%;
+}
+
+#div5 {
+	top: 30.98%;
+	left: 52.32%;
+}
+
+#div6 {
+	top: 31.12%;
+	left: 71.89%;
+}
+
+#div7 {
+	top: 45.33%;
+	left: 12.98%;
+}
+
+#div8 {
+	top: 45.33%;
+	left: 32.74%;
+}
+
+#div9 {
+	top: 45.33%;
+	left: 52.32%;
+}
+
+#div10 {
+	top: 45.35%;
+	left: 71.89%;
+}
+
+#div11 {
+	top: 59.50%;
+	left: 12.98%;
+}
+
+#div12 {
+	top: 59.54%;
+	left: 32.74%;
+}
+
+#div13 {
+	top: 59.54%;
+	left: 52.32%;
+}
+
+#div14 {
+	top: 59.63%;
+	left: 72.07%;
+}
+
+#div15 {
+	top: 73.76%;
+	left: 13.00%;
+}
+
+#div16 {
+	top: 73.75%;
+	left: 32.74%;
+}
+
+#gleich {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 73.75%;
+	left: 52.32%;
+	width: 15.20%;
+	height: 11.11%;
+	z-index: 9;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
+	background-color: rgb(72, 72, 72);
+	border: solid rgb(0, 0, 0) 1px;
+	border-radius: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.41vw;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div18 {
+	top: 73.80%;
+	left: 71.89%;
+}
+
