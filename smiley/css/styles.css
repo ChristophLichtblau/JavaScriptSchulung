@@ -1,0 +1,137 @@
+body {
+	overflow: hidden;
+	background-color: rgb(126, 213, 250);
+}
+
+.smiley {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	width: 10.40%;
+	height: 9.64%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 4.81vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+.button {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 88.51%;
+	width: 22.92%;
+	height: 6.5%;
+	z-index: 9;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+	border-radius: 25pt;
+	border-style: solid;
+	border-color: black;
+	border-width: 2pt;
+	
+}
+
+#div1 {
+	top: 6.20%;
+	left: 6.17%;
+}
+
+#div3 {
+	top: 67.80%;
+	left: 81.78%;
+}
+
+#div4 {
+	top: 73.25%;
+	left: 39.17%;
+}
+
+#div5 {
+	top: 30.19%;
+	left: 78.85%;
+}
+
+#div6 {
+	top: 7.84%;
+	left: 84.70%;
+}
+
+#div7 {
+	top: 20.38%;
+	left: 45.02%;
+}
+
+#div8 {
+	top: 52.54%;
+	left: 49.61%;
+}
+
+#div9 {
+	top: 4.02%;
+	left: 53.37%;
+}
+
+#div10 {
+	top: 36.18%;
+	left: 22.88%;
+}
+
+#div11 {
+	top: 66.16%;
+	left: 8.68%;
+}
+
+#div11 {
+	top: 69.98%;
+	left: 65.48%;
+}
+
+#div13 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 39.99%;
+	left: 39.99%;
+	width: 20.00%;
+	height: 19.99%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#löschen {
+	left: 12.85%;
+	background-color: rgb(253, 79, 79);
+}
+
+#zeigen {
+	left: 66.73%;
+	background-color: rgb(79, 253, 169);
+}
+

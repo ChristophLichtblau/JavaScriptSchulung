@@ -1,0 +1,92 @@
+body {
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+}
+
+.fenster {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	width: 21.67%;
+	height: 16.18%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#hintergrundRaum {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: -1.42%;
+	left: -0.93%;
+	width: 101.45%;
+	height: 101.75%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(72, 72, 72);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div2 {
+	top: 6.75%;
+	left: 6.58%;
+	background-color: rgb(250, 228, 80);
+}
+
+#div3 {
+	top: 6.75%;
+	left: 6.58%;
+	background-color: rgb(255, 246, 187);
+}
+
+#div4 {
+	top: 7.28%;
+	left: 38.74%;
+	background-color: rgb(255, 246, 187);
+}
+
+#div5 {
+	top: 7.28%;
+	left: 70.49%;
+	background-color: rgb(255, 246, 187);
+}
+
+#nachtlicht {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 63.98%;
+	left: 82.61%;
+	width: 4.96%;
+	height: 25.99%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(144, 0, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
