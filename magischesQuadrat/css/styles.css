@@ -1,0 +1,181 @@
+body {
+	overflow: hidden;
+	background-color: rgb(55, 160, 219);
+}
+
+.class1 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	width: 10.28%;
+	height: 18.33%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+	border: solid rgb(0, 0, 0) 3px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 3.96vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+.class17 {
+	display: block;
+	position: absolute;
+	width: 19.42%;
+	height: 7.53%;
+	z-index: 9;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
+	background-color: rgb(184, 184, 184);
+	border: solid rgb(0, 0, 0) 3px;
+	border-radius: 21px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0.5%;
+	padding-left: 1%;
+	margin: 0px;
+}
+
+#div1 {
+	top: 22.22%;
+	left: 29.92%;
+}
+
+#div2 {
+	top: 22.22%;
+	left: 40.20%;
+}
+
+#div3 {
+	top: 22.22%;
+	left: 50.48%;
+}
+
+#div4 {
+	top: 22.22%;
+	left: 60.76%;
+}
+
+#div5 {
+	top: 40.25%;
+	left: 29.92%;
+}
+
+#div6 {
+	top: 40.25%;
+	left: 40.20%;
+}
+
+#div7 {
+	top: 40.25%;
+	left: 50.48%;
+}
+
+#div8 {
+	top: 40.25%;
+	left: 60.76%;
+}
+
+#div9 {
+	top: 58.58%;
+	left: 29.92%;
+}
+
+#div10 {
+	top: 58.58%;
+	left: 40.20%;
+}
+
+#div11 {
+	top: 58.58%;
+	left: 50.48%;
+}
+
+#div12 {
+	top: 58.58%;
+	left: 60.76%;
+}
+
+#div13 {
+	top: 76.91%;
+	left: 29.92%;
+}
+
+#div14 {
+	top: 76.91%;
+	left: 40.20%;
+}
+
+#div15 {
+	top: 76.91%;
+	left: 50.48%;
+}
+
+#div16 {
+	top: 76.91%;
+	left: 60.76%;
+}
+
+#a {
+	top: 5.12%;
+	left: 29.66%;
+}
+
+#b {
+	top: 4.97%;
+	left: 51.33%;
+}
+
+#button {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 14.58%;
+	left: 29.92%;
+	width: 40.92%;
+	height: 5.69%;
+	z-index: 9;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
+	background-color: rgb(90, 90, 90);
+	border: solid rgb(0, 0, 0) 4px;
+	border-radius: 95px;
+	box-shadow: 9px 9px 9px rgba(0, 0, 0, 0.3);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.12vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div20 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 1.59%;
+	left: 0.77%;
+	width: 28.22%;
+	height: 20.00%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	font-weight: bold;
+	font-style: italic;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
