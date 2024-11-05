@@ -9,10 +9,10 @@ body {
 	box-sizing: border-box;
 	align-items: center;
 	justify-content: center;
-	top: 4.92%;
-	left: 5.75%;
+	top: 3.39%;
+	left: 4.07%;
 	width: 38.80%;
-	height: 16.16%;
+	height: 30.47%;
 	z-index: 9;
 	color: rgb(0, 0, 0);
 	overflow: hidden;
@@ -24,11 +24,10 @@ body {
 	padding: 0px;
 	margin: 0px;
 	user-select: none;
-undefined
+
 }
 
-#div1 {
-}
+
 
 #div2 {
 	display: flex;
@@ -36,10 +35,10 @@ undefined
 	box-sizing: border-box;
 	align-items: center;
 	justify-content: center;
-	top: 80.01%;
+	top: 65.53%;
 	left: 45.43%;
 	width: 49.66%;
-	height: 15.07%;
+	height: 27.87%;
 	z-index: 9;
 	color: rgb(0, 0, 0);
 	overflow: hidden;
@@ -59,7 +58,7 @@ undefined
 	top: 33.21%;
 	left: 4.95%;
 	width: 89.78%;
-	height: 33.92%;
+	height: 33.91%;
 	z-index: 9;
 	color: rgb(0, 0, 0);
 	overflow: hidden;
@@ -79,7 +78,7 @@ undefined
 	box-sizing: border-box;
 	align-items: center;
 	justify-content: center;
-	top: 11.47%;
+	top: 11.46%;
 	left: 40.00%;
 	width: 20.00%;
 	height: 13.19%;
@@ -102,9 +101,9 @@ undefined
 	align-items: center;
 	justify-content: center;
 	top: 74.55%;
-	left: 41.08%;
+	left: 40.12%;
 	width: 20.00%;
-	height: 19.96%;
+	height: 19.95%;
 	z-index: 9;
 	color: rgb(255, 255, 255);
 	overflow: hidden;
@@ -140,28 +139,6 @@ undefined
 	user-select: none;
 }
 
-#ausgabe {
-	display: flex;
-	position: absolute;
-	box-sizing: border-box;
-	align-items: center;
-	justify-content: center;
-	top: 168.11%;
-	left: -178.71%;
-	width: 457.39%;
-	height: 165.72%;
-	z-index: 9;
-	color: rgb(0, 0, 0);
-	overflow: hidden;
-	background-color: rgb(255, 255, 255);
-	border: solid rgb(0, 0, 0) 0px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 1.70vw;
-	padding: 0px;
-	margin: 0px;
-	user-select: none;
-}
-
 #titel {
 	display: flex;
 	position: absolute;
@@ -169,7 +146,7 @@ undefined
 	align-items: center;
 	justify-content: center;
 	top: 40.00%;
-	left: 5.33%;
+	left: 3.46%;
 	width: 92.68%;
 	height: 20.00%;
 	z-index: 9;
@@ -179,6 +156,28 @@ undefined
 	border: solid rgb(0, 0, 0) 0px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#ausgabe {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 53.51%;
+	left: 5.24%;
+	width: 90.71%;
+	height: 25.41%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.84vw;
 	padding: 0px;
 	margin: 0px;
 	user-select: none;
