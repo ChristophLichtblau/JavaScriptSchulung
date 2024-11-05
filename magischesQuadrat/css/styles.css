@@ -122,12 +122,12 @@ body {
 }
 
 #a {
-	top: 5.12%;
+	top: 3%;
 	left: 29.66%;
 }
 
 #b {
-	top: 4.97%;
+	top: 3%;
 	left: 51.33%;
 }
 
@@ -161,7 +161,7 @@ body {
 	box-sizing: border-box;
 	align-items: center;
 	justify-content: center;
-	top: 1.59%;
+	top: 1%;
 	left: 0.77%;
 	width: 28.22%;
 	height: 20.00%;
