@@ -1,13 +1,18 @@
 $(document).ready(function() {
 	// when document loaded:
 
+	
+	
+
 	$("#button").on("mouseup",function() {
 		quadratBefuellen();
 	});
 
 	function quadratBefuellen(){
-		let a = $("#a").val()*1;
-		let b = $("#b").val()*1;
+		
+		let magischeZahl = $("#a").val()*1
+		let a = Math.floor(magischeZahl/21);
+		let b = magischeZahl % 21;
 
 		$("#div1").html(a+b);
 		$("#div2").html(a);
