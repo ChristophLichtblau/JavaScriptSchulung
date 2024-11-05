@@ -10,6 +10,6 @@ $(document).ready(function() {
 
 
 	function verdoppeln(){
-		return $("#eingabe").val() / 4.36 ;
+		return  ($("#eingabe").val() / 4.36).toFixed(2) + "€"  ;
 	}
 });
