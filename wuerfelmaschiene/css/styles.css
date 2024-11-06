@@ -1,0 +1,89 @@
+body {
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+}
+
+#div1 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 14.39%;
+	left: 16.84%;
+	width: 66.32%;
+	height: 74.23%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(200, 200, 200);
+	border: solid rgb(0, 0, 0) 0px;
+	border-radius: 22px;
+	box-shadow: 26px 26px 26px rgba(0, 0, 0, 0.3);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#button {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 10.14%;
+	left: 40.56%;
+	width: 20.00%;
+	height: 11.26%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(159, 159, 159);
+	border: solid rgb(0, 0, 0) 2px;
+	border-radius: 86px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.12vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#wuerfelzahl {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 73.48%;
+	left: 45.07%;
+	width: 11.55%;
+	height: 20.00%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#wuerfelbild {
+	display: block;
+	position: absolute;
+	top: 34.50%;
+	left: 43.37%;
+	width: 15.00%;
+	height: 30.00%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(0, 0, 0, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	margin: 0px;
+}
+
