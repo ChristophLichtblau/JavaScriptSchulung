@@ -1,0 +1,107 @@
+body {
+	overflow: hidden;
+	background-color: rgb(224, 255, 206);
+}
+
+.class2 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#ausgabe {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 61.80%;
+	left: 29.56%;
+	width: 41.72%;
+	height: 16.18%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(255, 255, 255);
+	border: solid rgb(0, 0, 0) 3px;
+	border-radius: 31px;
+	box-shadow: 41px 41px 41px rgba(0, 0, 0, 0.3);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.41vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#label {
+	top: 8.38%;
+	left: 35.40%;
+	width: 28.35%;
+	height: 6.37%;
+	font-size: 2.83vw;
+}
+
+#eingabe {
+	display: block;
+	position: absolute;
+	top: 15.84%;
+	left: 42.61%;
+	width: 14.11%;
+	height: 5.45%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0.89);
+	border: solid rgb(0, 0, 0) 3px;
+	border-radius: 2px;
+	box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.3);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.69vw;
+	padding: 0.5%;
+	padding-left: 1%;
+	margin: 0px;
+}
+
+#versuche {
+	top: 85.24%;
+	left: 18.69%;
+	width: 62.19%;
+	height: 7.46%;
+	font-size: 1.98vw;
+}
+
+#div5 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 4.57%;
+	left: 4.49%;
+	width: 20.00%;
+	height: 6.37%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	font-weight: bold;
+	font-style: italic;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
