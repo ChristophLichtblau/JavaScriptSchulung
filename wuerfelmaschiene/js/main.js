@@ -32,18 +32,25 @@ $(document).ready(function() {
 	  $("#wuerfelbild1").attr("src", "img/wuerfel" + zahl1 + ".png");
 	  $("#wuerfelbild2").attr("src", "img/wuerfel" + zahl2 + ".png");
   
-	  // Punkte aktualisieren
-	  punkte += zahl1 + zahl2;
+	 
+	  
 	  
   
-	   Optional: 
-	  if (zahl1 === zahl2) {
-		punkte = 0;
-		$("#wuerfelzahl").html(punkte);
-	  } else {
-		$("#wuerfelzahl").html(punkte);
-	  }
 	  
+	  if (zahl1 == zahl2) {
+		punkte = 0;
+		$("#div1").css("background-color","red");
+		setTimeout(grau,300);
+	  } else {
+		punkte += zahl1 + zahl2;
+	  }
+	  $("#wuerfelzahl").html(punkte);
+	  
+	}
+
+
+	function grau(){
+		$("#div1").css("background-color","rgb(200, 200, 200)")
 	}
   });
   
