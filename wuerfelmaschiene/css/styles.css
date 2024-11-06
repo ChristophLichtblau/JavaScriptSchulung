@@ -57,7 +57,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	top: 73.48%;
-	left: 45.07%;
+	left: 45%;
 	width: 11.55%;
 	height: 20.00%;
 	z-index: 9;
@@ -72,11 +72,11 @@ body {
 	user-select: none;
 }
 
-#wuerfelbild {
+#wuerfelbild1 {
 	display: block;
 	position: absolute;
 	top: 34.50%;
-	left: 43.37%;
+	left: 30%;
 	width: 15.00%;
 	height: 30.00%;
 	z-index: 9;
@@ -86,4 +86,19 @@ body {
 	border: solid rgb(0, 0, 0) 0px;
 	margin: 0px;
 }
+#wuerfelbild2 {
+	display: block;
+	position: absolute;
+	top: 34.50%;
+	right: 30%;
+	width: 15.00%;
+	height: 30.100%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(0, 0, 0, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	margin: 0px;
+}
+
 
