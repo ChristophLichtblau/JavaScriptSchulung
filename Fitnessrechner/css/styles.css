@@ -1,0 +1,154 @@
+body {
+	overflow: hidden;
+	background-color: rgb(19, 176, 250);
+}
+
+.auswahl {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	width: 20.00%;
+	height: 4.97%;
+	z-index: 9;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
+	border: solid rgb(0, 0, 0) 2px;
+	border-radius: 21px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.3vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div1 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 8.91%;
+	left: 14.93%;
+	width: 70.12%;
+	height: 80.49%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgb(2, 127, 144);
+	border: solid rgb(0, 0, 0) 3px;
+	border-radius: 31px;
+	box-shadow: 27px 27px 27px rgba(0, 0, 0, 0.3);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.832.2vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#eingabe {
+	display: block;
+	position: absolute;
+	top: 7.78%;
+	left: 40.20%;
+	width: 21.12%;
+	height: 5.19%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0.545);
+	border: solid rgb(0, 0, 0) 1px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.27vw;
+	padding: 0.5%;
+	padding-left: 1%;
+	margin: 0px;
+}
+
+#btnFuß {
+	top: 35.21%;
+	left: 7.00%;
+	background-color: rgb(75, 108, 156);
+}
+
+#btnFahrrad {
+	top: 35.21%;
+	left: 40.60%;
+	background-color: rgb(0, 66, 161);
+}
+
+#btnAuto {
+	top: 35.20%;
+	left: 74.20%;
+	background-color: rgb(75, 108, 156);
+}
+
+#btnBerechnen {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 49.54%;
+	left: 6.40%;
+	width: 88.16%;
+	height: 4.97%;
+	z-index: 9;
+	color: rgb(255, 255, 255);
+	overflow: hidden;
+	background-color: rgb(0, 66, 161);
+	border: solid rgb(0, 0, 0) 2px;
+	border-radius: 21px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.3vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div7 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 64.58%;
+	left: 7.00%;
+	width: 87.80%;
+	height: 20.00%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0.537);
+	border: solid rgb(0, 0, 0) 2px;
+	border-radius: 17px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
+#div8 {
+	display: flex;
+	position: absolute;
+	box-sizing: border-box;
+	align-items: center;
+	justify-content: center;
+	top: 5.84%;
+	left: 31.60%;
+	width: 8.60%;
+	height: 9.07%;
+	z-index: 9;
+	color: rgb(0, 0, 0);
+	overflow: hidden;
+	background-color: rgba(255, 255, 255, 0);
+	border: solid rgb(0, 0, 0) 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.83vw;
+	padding: 0px;
+	margin: 0px;
+	user-select: none;
+}
+
